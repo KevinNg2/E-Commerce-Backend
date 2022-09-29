@@ -1,11 +1,11 @@
-# E-Commerence 
+# E-Commerce 
 
 ## Description 
-This is a back end application for a e-commerence website that uses Sequelize to interact with MYSQL database. The User will use insomnia to interact with backend features to view products, categories, and tags as well as using CRUD methods to alter the database. 
+This is a back end application for a e-commerce website that uses Sequelize to interact with MYSQL database. The User will use insomnia to interact with backend features to view products, categories, and tags as well as using CRUD methods to alter the database. 
 
 ## Link to the App
-* ['E-Commerce - Github']()
-* ['E-Commerece Video Walkthrough']()
+* ['E-Commerce - Github'](https://github.com/KevinNg2/E-Commerce-Backend)
+* ['E-Commerce Video Walkthrough']()
 
 ## User Story
 ```
