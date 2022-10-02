@@ -16,11 +16,11 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Installation
 The user will clone the repository from Github and NPM Install dotenv, express, mysql2 & sequelize.
-The app is run npm start.
+The app is run by npm start.
 
 ## Usage
-The user will need to start a server on a local host (Insomina) to make requests to the database. Run the following commands:
-mysql -u root -p, enter password, source db/schema.sql, node seeds, npm start
+The user will need to start a server on a local host (Insomina) to make requests to the database. Run the following commands at the root of your project:
+mysql -u root -p, enter password, source db/schema.sql, node seeds, npm start.
 
 ## Credits
 Kevin Ng UCI Coding Bootcamp
